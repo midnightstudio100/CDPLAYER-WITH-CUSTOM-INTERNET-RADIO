@@ -3,8 +3,9 @@ the custom internet equipped CD PLAYER IMPLEMENTED!
 THE RADIO STREAMING IS NOT INCLUDED 
 HOW TO ADD RADIO STATIONS 
 
-GO TO FMSTREAM.ORG> SEARCH > WHEN YOU FIND IT> CLICK ONE OF THE LINKS NUMBER ON THAT PAGE
-modes: CD PLAYER CASSETTE MODE 
+GO TO FMSTREAM.ORG> SEARCH > WHEN YOU FIND IT> CLICK ONE OF THE LINKS NUMBER ON THAT PAGE > copy and paste the link in the add radio stations 
+
+modes: radio (CD PLAYER, CASSETTE MODE)
 Local music files are playable 
 
 when you install the apk: you gotta enable android >SECURITY settings > install unknown sources apps > when you turned that on you have to let the google play protect scan after if scans it will tell you its a safe app will let you install it. 
