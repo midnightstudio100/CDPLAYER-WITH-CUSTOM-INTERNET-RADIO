@@ -1,6 +1,6 @@
 # CDPLAYER-WITH-CUSTOM-INTERNET-RADIO
 the custom internet equipped CD PLAYER IMPLEMENTED! 
-THE RADIO STREAMING IS NOT INCLUDED 
+THE RADIO STREAMING IS NOT INCLUDED (you have to add your own radio station or youtube link you want to listen to)  
 
 HOW TO ADD RADIO STATIONS:
 GO TO FMSTREAM.ORG> SEARCH the one you want > WHEN YOU FIND IT> CLICK ONE OF THE LINKS NUMBER ON THAT PAGE > copy and paste the link in the add radio stations 
